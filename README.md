@@ -12,8 +12,6 @@ Interested in:
 - Software Architecture
 - Embedded Systems
 
-## 🛠 Tech
-
 ## 🛠️ Tech
 
 ### Languages
