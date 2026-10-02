@@ -24,7 +24,7 @@ Interested in:
 
 ## 🚀 Featured Projects
 
-### [ScamGraph](https://github.com/asaba117/ScamGraph)
+### [ScamGraph](http://github.com/KhaledDevelopments/ScamGraph)
 Scam and phishing analysis platform that combines multiple
 threat-intelligence providers into one easy-to-understand interface.
 
