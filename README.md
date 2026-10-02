@@ -10,6 +10,7 @@ Interested in:
 - Cybersecurity
 - Full-Stack Development
 - Software Architecture
+- Embedded Systems
 
 ## 🛠 Tech
 
