@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Afif 👋
 
-<!--
-**asaba117/asaba117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at UNB.
 
-Here are some ideas to get you started:
+Interested in:
+- Backend Development
+- Cybersecurity
+- Full-Stack Development
+- Software Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech
+
+Python • Java • JavaScript • React • FastAPI  
+PostgreSQL • Docker • Git • GitHub Actions
+
+## 🚀 Featured Projects
+
+### ScamGraph
+Scam and phishing analysis platform that combines multiple
+threat-intelligence providers into one easy-to-understand interface.
+
+
+## 📚 Currently Learning
+- Full-stack application architecture
+- Docker
+- PostgreSQL
+- CI/CD
+- Security engineering
