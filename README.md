@@ -3,7 +3,7 @@
 Software Engineering student at the University of New Brunswick.
 
 I'm especially interested in cybersecurity and enjoy building full-stack applications and learning how
-backend systems, databases, and infrastructure fit together.
+backend systems, databases, and infrastructure fit together. I also dabble in a little game development.
 
 Interested in:
 - Backend Development
